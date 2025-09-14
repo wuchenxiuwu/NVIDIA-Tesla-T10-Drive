@@ -1,4 +1,4 @@
-# Special-driver-for-NVIDIA-computing-card-t10
+# NVIDIA Tesla T10 Drive
 This is the Tesla T10 architecture special driver for Nvidia graphics cards
 
 -----
